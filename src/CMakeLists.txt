@@ -43,7 +43,7 @@ target_link_libraries(cppurses
         optional
         ${CMAKE_THREAD_LIBS_INIT}
     PRIVATE
-        NCurses)
+        ncursesw)
 
 target_include_directories(cppurses
     PUBLIC

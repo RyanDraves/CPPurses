@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <name>cppurses</name>
+  <version>1.0.0</version>
+  <description>C++ wrapper for ncurses (TUI stuff)</description>
+  <maintainer email="anthony@i-made-this.up">Anthony</maintainer>
+  <license>MIT</license>
+  <url type="website">https://github.com/a-n-t-h-o-n-y/CPPurses</url>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
